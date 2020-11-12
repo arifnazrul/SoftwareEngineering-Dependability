@@ -1,2 +1,2 @@
 # SoftwareEngineering-Dependability
-Solutions of Courses from Chair of Software Engineering: Dependability
+Exercise-Solutions of Courses from Chair of Software Engineering: Dependability
